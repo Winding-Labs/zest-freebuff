@@ -1,6 +1,6 @@
 {
   "name": "zest-freebuff",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Zest for Freebuff — track sessions for standups and workflow insights",
   "type": "module",
   "bin": {
