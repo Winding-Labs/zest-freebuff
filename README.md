@@ -32,7 +32,7 @@ from git otherwise; older npm ignores it (npm 11 prints a warning).
 To update, run `install` again. Run it again too after upgrading or switching
 Node: the wrapper runs Zest with the Node that installed it.
 
-Full instructions: https://app.meetzest.com/docs/install/freebuff
+Full instructions: https://meetzest.com/docs/plugins/freebuff/
 
 ## What it captures
 
@@ -70,4 +70,4 @@ and is regenerated on every release.
 Proprietary — see LICENSE.md. Third-party components included in this
 distribution are listed in THIRD-PARTY-NOTICES.md.
 
-Questions: hi@winding.ai
+Questions: support@winding.ai
